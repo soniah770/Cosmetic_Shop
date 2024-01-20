@@ -1,6 +1,7 @@
 # Cosmetic_Shop
  
  An Ecommerce  Website with Next.js 14, Redux, TailwindCSS
+![image](https://github.com/soniah770/Cosmetic_Shop/assets/59695002/e17a80f2-9e4c-41c3-ba06-085a4f1be7b3)
 
 
 ## Getting Started
